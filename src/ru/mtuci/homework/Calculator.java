@@ -78,3 +78,6 @@ public class Calculator {
   //TODO Допиши по аналогии еще два метода: multiply, divide
 
 }
+
+//rewfsc
+
